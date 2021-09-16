@@ -2,7 +2,7 @@
 This is a small task you will have to create to prove you are capable of what you say. 
 
 ### Description
-Take data from [our locations api](https://api.photodino.com/locations) and create a react app for interacting with it.
+Take data from [our locations api](https://github.com/Foto-Dino/front-end-job/blob/main/api.md) and create a react app for interacting with it.
 The app will be broken down to 3 parts:
 #### Cities
 This is where all city data is displayed. This allows looking at all cities at a glance, filter and sort through them.
