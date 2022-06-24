@@ -43,3 +43,8 @@ Experience in the following areas is not necessary, but will increase your chanc
 - Python, specifically Django
 
 Thank You.
+
+## Task
+- You can find the task description in https://github.com/Foto-Dino/front-end-job/blob/main/task.md
+- You can find an explanation of the api in https://github.com/Foto-Dino/front-end-job/blob/main/api.md and on api.foto-dino.de.
+- For any other questions please open an issue.
