@@ -1,6 +1,5 @@
 
 # FotoDino
-# JOB CLOSED. WE ARE NOT ACCEPTING ANY NEW SUMBISSIONS.
 ![FotoDino](https://raw.githubusercontent.com/Foto-Dino/front-end-job/8abe0564e568adeaba5d1238cce82bd1eaa0abb7/logo.png)
 ## About Us:
 Greetings! Welcome to FotoDino and thank you for taking interest in our job posting. We are a software company that creates products and solutions that assist photographers to connect with new clients. At the moment our flagship project is [photodino.com](https://photodino.com). It is a place for new parents to find and book photoshoots for their infant and toddlers.
